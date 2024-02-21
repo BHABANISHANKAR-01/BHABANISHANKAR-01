@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BHABANISHANKAR-01
-- 👀 I’m interested in ...Web Development,Python
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...Machine learning and Web development
+- 👀 I’m interested in ...Data Science, Machine Learning and AI
+- 🌱 I’m currently mastering ... AI
+- 💞️ I’m looking to collaborate on ...Deep Learning and Web development
 - 📫 How to reach me ...bsbhabani00@gmail.com
 
 <!---
